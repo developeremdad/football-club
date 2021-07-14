@@ -267,7 +267,9 @@ Responsive Media Query part
 --------------------------------- */
 
 
-/* Responsive for mobile devices  */
+/* ----------------------------
+Responsive for mobile devices  
+-------------------------------*/
 
 @media only screen and (max-width:688px) {
     .banner-left-content, .banner-image, .container, .players, .report-container, .news-main-section .main-footer{
@@ -319,7 +321,9 @@ Responsive Media Query part
         padding: 10px;
     }
 }
-    /* Responsive for Tablet devices  */
+    /*------------------------------
+     Responsive for Tablet devices  
+     -------------------------------*/
 
     @media only screen and (min-width:688px) and (max-width: 992px) {
         .banner-left-content, .banner-image, .container, .players, .report-container, .news-main-section .main-footer{
@@ -380,27 +384,8 @@ Responsive Media Query part
         }
     }
 
+/*----------------------------------
+ End website Style part, Thank You  
+ -----------------------------------*/
 
-
-
-
-
-
-/* @media only screen and (max-width:688px) and (max-width:992px) {
-    .banner-left-content, .banner-image, .container{
-        width: 100%;
-    }
-
-    .banner{
-        grid-template-columns: repeat(1, 1fr);
-        justify-content: center;
-    }
-    
-    .banner{
-        text-align: center;
-        padding: 10px 0;
-    }
-    .banner-left-content{
-        text-align: center;
-    }
-} */
+ /* ------------------------------  Happy Codding With Programming Hero ----------------------------------*/
